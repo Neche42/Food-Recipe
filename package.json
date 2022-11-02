@@ -1,6 +1,6 @@
 {
   "homepage": "https://neche42.github.io/Food-Recipe/",
-  "name": "Food-Recipe-app",
+  "name": "Food-Recipe",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
